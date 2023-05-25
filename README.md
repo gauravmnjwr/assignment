@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Checkout the project at [Assignment](https://firebondassignment.netlify.app/).
 
 ## Available Scripts
 
