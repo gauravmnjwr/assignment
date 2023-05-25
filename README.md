@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Checkout the project at [Assignment](https://firebondassignment.netlify.app/).
+Checkout the project at [link](https://firebondassignment.netlify.app/).
 
 ## Available Scripts
 
